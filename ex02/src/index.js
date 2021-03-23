@@ -17,5 +17,5 @@ function checkVariableScope() {
     return i;
 }
 
-console.log(checkVariableScope());
+checkVariableScope();
 module.exports = checkVariableScope;
