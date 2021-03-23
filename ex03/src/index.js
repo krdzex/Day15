@@ -4,7 +4,6 @@ function printManyTimes(str) {
     // Only change code below this line
 
     const SENTENCE = str + " is cool!";
-    console.log(str.length);
     for (let i = 0; i < str.length; i += 2) {
 
         console.log(SENTENCE);
